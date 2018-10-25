@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoldcellSms</string>
+    <string name="text">text</string>
+    <string name="number">number</string>
+    <string name="send">SEND</string>
+    <string name="from">from</string>
+    <string name="captcha">captcha</string>
+</resources>
